@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src= A_digital_graphic_design_banner_features_Nuha_AL-S.png alt="banner" width="100%">
+</p>
+
 # 👋 Hi there, I'm Nuha AL-Saadi
 
 🎓 **English Literature Graduate | Python Learner | CS50 Student**
